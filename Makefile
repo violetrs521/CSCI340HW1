@@ -1,5 +1,4 @@
-all: 
-	hw1
+all: hw1
 
 clean: 
 	rm hw1
