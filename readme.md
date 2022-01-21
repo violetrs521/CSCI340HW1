@@ -105,3 +105,4 @@ Your branch is up to date with 'origin/master'. nothing to commit, working tree 
 ### C code
 
 - if you want to add different parameters to the c code place them in the run command in the parameter 1 and parameter2 places
+- the code is developed to return the addresses of the parameters passed in the command line
